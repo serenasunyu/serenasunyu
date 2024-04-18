@@ -15,15 +15,6 @@
 <br /><br />
 
 
-<hr />
-<!-- is hrer -->
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://stats.justsong.cn/api/github?username=serenasunyu&theme=light" style="align-self: flex-end;">
-    <a href="https://github.com/serenasunyu/serenasunyu.github.io" style="display: flex; align-items: flex-end;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenasunyu" alt="Most Used Languages" style="align-self: flex-end;"></a>
-</div>
-
-
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
