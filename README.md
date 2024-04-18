@@ -30,9 +30,8 @@
 <!-- is hrer -->
 <a href="https://github.com/serenasunyu/serenasunyu.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenasunyu" alt=""></a>
 
-<a href="https://github.com/serenasunyu/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=serenasunyu&theme=react&radius=6"></a>
+<a href="https://github.com/serenasunyu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=serenasunyu&theme=react&radius=6"></a>
 
-<img align="left" src="https://stats.justsong.cn/api/github?username=serenasunyu&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><br />
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -51,10 +50,7 @@
 <br />
 <img src="https://img.shields.io/static/v1?label=Email.....&message=:&color=yellow&style=?style=flat-square&logo=MicrosoftAcademic&logoColor=yellow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=2011sunyu@gmail.com&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
-<img src="https://img.shields.io/static/v1?label=Hobbies..&message=:&color=yellow&style=?style=flat-square&logo=ArtStation&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?label=@&message=Programming&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Cooking&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?label=@&message=Hiking&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?label=@&message=Yoga&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?label=Hobbies..&message=:&color=yellow&style=?style=flat-square&logo=ArtStation&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Programming&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Cooking&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Hiking&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Yoga&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 <br />
 </td></tr>
@@ -70,27 +66,18 @@
 <tr><td width="1200">
 <div align="center" ><br />
    
-   
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=green&style=flat-square)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat-square)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat-square)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square)
-   <br />
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)<br /><br />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="63" style="width: 63px; height: 63px; margin-right: 0px; margin-bottom: 0px;" />
 </div><br />
    </td></tr>
 </table>
@@ -100,8 +87,8 @@
 <table>
 <tr><td width="1200">
 <div align="center" ><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,py,nodejs,androidstudio,webpack,visualstudio,github" /><br>
-<img src="https://skillicons.dev/icons?i=ae,ps,pr,au,ai,git,discord,twitter,vscode,md" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,express,jquery,java,py,nodejs,figma" /><br>
+<img src="https://skillicons.dev/icons?i=anaconda,aws,azure,git,github,discord,twitter,eclipse,vscode,mysql,postgres,npm,postman" /><br>
 <br>
 
 </div>
