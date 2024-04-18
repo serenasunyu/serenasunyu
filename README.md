@@ -1,11 +1,10 @@
 ### Hi there 👋 Welcome to my github!
-<div align="center"><img src="dino.gif" alt="running dino"></div>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/xiongbab/xiongbab/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
 
 <hr />
 <!-- page -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=serenasunyu&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
 
 ### My Passion 😄 
 
@@ -14,23 +13,15 @@
 - 🐏: Outside of coding, I find joy in exploring new recipes and cooking up delicious meals.<br />
 - 🐋: I love spending time outdoors, whether it's hiking in nature or going for a run in the park.
 <br /><br />
-<!-- Tag -->
-<img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<em><img src="https://img.shields.io/github/languages/top/serenasunyu/serenasunyu.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;
-<em><img style="display:inline-block" src="https://img.shields.io/github/followers/serenasunyu?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;
-<em><img src="https://img.shields.io/github/languages/count/serenasunyu/serenasunyu.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;
-<em><img src="https://img.shields.io/github/downloads/serenasunyu/ASUS_FX505_EFI/total?style=flat-square"></em>&nbsp;&nbsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=serenasunyu&left_color=green&right_color=blue">
-
-
-
 
 
 <hr />
 <!-- is hrer -->
-<a href="https://github.com/serenasunyu/serenasunyu.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenasunyu" alt=""></a>
+<div style="display: flex; flex-direction: row; justify-content: center;">
+    <img src="https://stats.justsong.cn/api/github?username=serenasunyu&theme=light" style="align-self: flex-end;">
+    <a href="https://github.com/serenasunyu/serenasunyu.github.io" style="display: flex; align-items: flex-end;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenasunyu" alt="Most Used Languages" style="align-self: flex-end;"></a>
+</div>
 
-<a href="https://github.com/serenasunyu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=serenasunyu&theme=react&radius=6"></a>
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
