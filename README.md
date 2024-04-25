@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my github!
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/serenasunyu/serenasunyu/profile-snake-contribution/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://github.com/serenasunyu/serenasunyu/blob/output/github-contribution-grid-snake.svg" /></div>
 
 <hr />
 <!-- page -->
